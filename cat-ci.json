@@ -1,0 +1,26 @@
+{
+  "user": "cat-ci",
+  "timestamp": 1750687038,
+  "onlineStatus": "Currently Online",
+  "userLevel": "96",
+  "recentGames": [
+    {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_184x69.jpg?t=1739211362",
+      "title": "Wallpaper Engine",
+      "playTime": null,
+      "lastPlayed": "23 May"
+    },
+    {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3385290/67d414c4882698fe73b15a0c6aeb3819e9f3b73a/capsule_184x69.jpg?t=1744374260",
+      "title": "ChromaGun 2: Dye Hard Playtest",
+      "playTime": null,
+      "lastPlayed": "22 May"
+    },
+    {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/3bfaabaa23c8e1ca72c558782d7c7ff4cbc2e89a/capsule_184x69.jpg?t=1749837289",
+      "title": "HELLDIVERS™ 2",
+      "playTime": null,
+      "lastPlayed": "22 May"
+    }
+  ]
+}
