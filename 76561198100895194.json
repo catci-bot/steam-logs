@@ -1,0 +1,26 @@
+{
+  "user": "76561198100895194",
+  "timestamp": 1750873912,
+  "onlineStatus": "Currently In-Game",
+  "userLevel": "106",
+  "recentGames": [
+    {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47890/capsule_184x69.jpg?t=1738703889",
+      "title": "The Sims™ 3",
+      "playTime": null,
+      "lastPlayed": "25 Jun"
+    },
+    {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239140/04f5f510bda7a47ea9d0ff8b2f3313072035d81b/capsule_184x69.jpg?t=1738004178",
+      "title": "Dying Light",
+      "playTime": null,
+      "lastPlayed": null
+    },
+    {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/3bfaabaa23c8e1ca72c558782d7c7ff4cbc2e89a/capsule_184x69.jpg?t=1749837289",
+      "title": "HELLDIVERS™ 2",
+      "playTime": null,
+      "lastPlayed": "23 Jun"
+    }
+  ]
+}
