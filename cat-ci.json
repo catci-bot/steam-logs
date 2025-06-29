@@ -1,26 +1,26 @@
 {
   "user": "cat-ci",
-  "timestamp": 1750872760,
+  "timestamp": 1751230012,
   "onlineStatus": "Currently Online",
   "userLevel": "96",
   "recentGames": [
     {
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215390/dbbe351a804f86ba8ec8bb4e9f83961f3fe06ead/capsule_184x69.jpg?t=1749834013",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "playTime": null,
+      "lastPlayed": "25 Jun"
+    },
+    {
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/747660/capsule_184x69.jpg?t=1686587905",
       "title": "Five Nights at Freddy's: Security Breach",
       "playTime": null,
-      "lastPlayed": "24 Jun"
+      "lastPlayed": "25 Jun"
     },
     {
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_184x69.jpg?t=1739211362",
       "title": "Wallpaper Engine",
       "playTime": null,
       "lastPlayed": "23 May"
-    },
-    {
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3385290/67d414c4882698fe73b15a0c6aeb3819e9f3b73a/capsule_184x69.jpg?t=1744374260",
-      "title": "ChromaGun 2: Dye Hard Playtest",
-      "playTime": null,
-      "lastPlayed": "22 May"
     }
   ]
 }
