@@ -1,0 +1,26 @@
+{
+  "user": "Cat-ci",
+  "timestamp": 1751542706,
+  "onlineStatus": "Currently Offline",
+  "userLevel": "96",
+  "recentGames": [
+    {
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_184x69.jpg?t=1745363004",
+      "title": "Portal 2",
+      "playTime": null,
+      "lastPlayed": "2 Jul"
+    },
+    {
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274300/368e25517c8199ecb4f79a037f0f013fdd4cc51a/capsule_184x69.jpg?t=1734385783",
+      "title": "Awaria",
+      "playTime": null,
+      "lastPlayed": "1 Jul"
+    },
+    {
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215390/dbbe351a804f86ba8ec8bb4e9f83961f3fe06ead/capsule_184x69.jpg?t=1749834013",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "playTime": null,
+      "lastPlayed": "25 Jun"
+    }
+  ]
+}
